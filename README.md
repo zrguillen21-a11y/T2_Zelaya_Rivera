@@ -1,6 +1,6 @@
 NICANOR GUILLERMO ZELAYA RIVERA
 
-LENGIAJE 
+LENGIAJE
 
 LENGUAJE DE PROGRAMACION II
 
@@ -14,11 +14,23 @@ con este repositorio pretendemos hace un historial de los cambios de nuestro pro
 
 
 
-Evidencia T2 Guillermo Zelaya rivera 
+Evidencia T2 Guillermo Zelaya rivera
 
 
 
-Control de cambios: 
+Control de cambios:
 
 se crearon y agregaron gitinored, README.md y pom.xml
+
+
+
+Gestión de ramas
+
+
+
+Rama utilizada: feature-Zelaya.
+
+
+
+Se desarrolló una funcionalidad independiente mediante la clase ControlVersion\_Zelaya.java.
 
