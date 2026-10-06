@@ -16,3 +16,9 @@ con este repositorio pretendemos hace un historial de los cambios de nuestro pro
 
 Evidencia T2 Guillermo Zelaya rivera 
 
+
+
+Control de cambios: 
+
+se crearon y agregaron gitinored, README.md y pom.xml
+
